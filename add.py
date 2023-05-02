@@ -6,5 +6,7 @@ print(c)
 a1 = 5
 b1 = 3
 c1 = a1 - b1
-print(c1)
-#git added f6
+print(c1)#cheching the rebase
+
+# this is the f1
+# this is f2 
