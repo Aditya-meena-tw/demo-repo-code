@@ -16,3 +16,5 @@ print(c1)#cheching the rebase
 
 #this is commit 2
 # this is changed 
+#this is test pus 6
+#git cherry-pick test
